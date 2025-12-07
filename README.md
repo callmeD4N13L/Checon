@@ -228,3 +228,9 @@ If you find Checon useful, please consider giving it a **star ‚≠ê on GitHub** ‚Ä
 - DB Tables
 - Regex Configurations for favorite patterns
 - Improve logging
+
+--- 
+# Ownership
+- [*Daniel Watson*](https://github.com/callmeD4N13L)
+- [*Noah Watson*](https://github.com/NoahWatson-369)
+
