@@ -1,0 +1,6 @@
+tld
+requests
+json
+bs4
+datetime
+argparse

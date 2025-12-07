@@ -1,0 +1,12 @@
+{
+    "proxy": "",
+    "user_agent" : "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",   
+    "timeout": 5,
+    "ssl_verify": false,
+    "mail_finding" : true,
+    "threads" : 10,
+    "export_format" : "",
+    "verbose" : false,
+    "crawling": false,
+    "level" : 2
+}
